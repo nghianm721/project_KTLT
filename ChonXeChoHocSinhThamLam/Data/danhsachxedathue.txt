@@ -1,0 +1,4 @@
+STT	Ten	SoChoNgoi	GiaThue	Gia1Ghe
+1	 HoaMai	 45		 860000	 20000		
+2	 SaiGon	 30		 700000	 25000		
+3	 GiaLong	 16		 420000	 30000		
